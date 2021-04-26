@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MoGaber/MoGaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a physicist and data scientist. I have a passion for applying machine learning and data science to solving real life problems in other fields like physics. I have worked at several research centers world wide where I contributed to developing models and building simulations of physical systems.  
 
